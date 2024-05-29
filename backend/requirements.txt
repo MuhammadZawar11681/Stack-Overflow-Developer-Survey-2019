@@ -1,0 +1,11 @@
+pandas
+mysql-connector-python
+dash
+plotly
+flask-cors
+SQLAlchemy
+scikit-learn
+matplotlib
+matplotlib-venn
+scikit-learn
+numpy
