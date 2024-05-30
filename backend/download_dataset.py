@@ -2,9 +2,9 @@
 # second uncommit the last 3 lines and run
 
 
-# import os
-# os.system('kaggle datasets download -d sagarvarandekar/stack-overflow-developer-survey-2019 -p ./data')
-# os.system('unzip ./data/stack-overflow-developer-survey-2019.zip -d ./data')
+import os
+os.system('kaggle datasets download -d sagarvarandekar/stack-overflow-developer-survey-2019 -p ./data')
+os.system('unzip ./data/stack-overflow-developer-survey-2019.zip -d ./data')
 
 
 # import zipfile
